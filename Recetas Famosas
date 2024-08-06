@@ -1,0 +1,100 @@
+<!DOCTYPE html>
+<html lang="es">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Las 10 Recetas Más Famosas del Mundo</title>
+    <style>
+        body {
+            font-family: Arial, sans-serif;
+            margin: 20px;
+            background-color: #e0f7fa; /* Color de fondo */
+            color: #333; /* Color del texto */
+        }
+        h1 {
+            text-align: center;
+            font-family: 'Arial Black', sans-serif;
+            color: #00796b;
+        }
+        h2 {
+            font-family: 'Georgia', serif;
+            color: #004d40;
+        }
+        .recipe {
+            background-color: #fff;
+            padding: 20px;
+            margin: 20px 0;
+            border-radius: 8px;
+            box-shadow: 0 4px 8px rgba(0, 0, 0, 0.1);
+            border: 2px solid #00796b;
+        }
+        p {
+            line-height: 1.6;
+            font-size: 1.1em;
+        }
+    </style>
+</head>
+<body>
+    <h1>Las 10 Recetas Más Famosas del Mundo</h1>
+
+    <div class="recipe">
+        <h2>1. Pizza Margherita</h2>
+        <p><strong>Ingredientes:</strong> Masa de pizza, salsa de tomate, mozzarella, albahaca, aceite de oliva, sal.</p>
+        <p><strong>Instrucciones:</strong> Extiende la masa, añade la salsa de tomate, la mozzarella y la albahaca. Hornea a 220°C durante 10-15 minutos.</p>
+    </div>
+
+    <div class="recipe">
+        <h2>2. Sushi</h2>
+        <p><strong>Ingredientes:</strong> Arroz para sushi, alga nori, pescado fresco, wasabi, salsa de soja.</p>
+        <p><strong>Instrucciones:</strong> Cocina el arroz, coloca el alga nori, añade el arroz y el pescado. Enrolla y corta en piezas.</p>
+    </div>
+
+    <div class="recipe">
+        <h2>3. Paella</h2>
+        <p><strong>Ingredientes:</strong> Arroz, azafrán, mariscos, pollo, pimientos, guisantes, caldo de pollo.</p>
+        <p><strong>Instrucciones:</strong> Sofríe el pollo y los mariscos, añade el arroz y el caldo. Cocina a fuego lento hasta que el arroz esté hecho.</p>
+    </div>
+
+    <div class="recipe">
+        <h2>4. Ceviche</h2>
+        <p><strong>Ingredientes:</strong> Pescado fresco, limón, cebolla, cilantro, ají, sal.</p>
+        <p><strong>Instrucciones:</strong> Marina el pescado en el jugo de limón, añade la cebolla, el cilantro y el ají. Sirve frío.</p>
+    </div>
+
+    <div class="recipe">
+        <h2>5. Tacos</h2>
+        <p><strong>Ingredientes:</strong> Tortillas, carne, cebolla, cilantro, salsa.</p>
+        <p><strong>Instrucciones:</strong> Cocina la carne, coloca en las tortillas, añade cebolla, cilantro y salsa.</p>
+    </div>
+
+    <div class="recipe">
+        <h2>6. Ratatouille</h2>
+        <p><strong>Ingredientes:</strong> Berenjena, calabacín, pimientos, tomate, cebolla, ajo, hierbas provenzales.</p>
+        <p><strong>Instrucciones:</strong> Corta las verduras en rodajas, colócalas en una fuente, añade las hierbas y hornea a 180°C durante 45 minutos.</p>
+    </div>
+
+    <div class="recipe">
+        <h2>7. Fish and Chips</h2>
+        <p><strong>Ingredientes:</strong> Pescado blanco, patatas, harina, cerveza, sal, aceite.</p>
+        <p><strong>Instrucciones:</strong> Reboza el pescado en harina y cerveza, fríe en aceite caliente. Sirve con patatas fritas.</p>
+    </div>
+
+    <div class="recipe">
+        <h2>8. Hummus</h2>
+        <p><strong>Ingredientes:</strong> Garbanzos, tahini, ajo, limón, aceite de oliva, sal.</p>
+        <p><strong>Instrucciones:</strong> Tritura todos los ingredientes hasta obtener una pasta suave. Sirve con pan de pita.</p>
+    </div>
+
+    <div class="recipe">
+        <h2>9. Pad Thai</h2>
+        <p><strong>Ingredientes:</strong> Fideos de arroz, gambas, tofu, huevo, brotes de soja, cacahuetes, salsa de tamarindo.</p>
+        <p><strong>Instrucciones:</strong> Saltea los fideos con los demás ingredientes y la salsa. Sirve caliente.</p>
+    </div>
+
+    <div class="recipe">
+        <h2>10. Hamburguesa</h2>
+        <p><strong>Ingredientes:</strong> Carne de res, pan de hamburguesa, lechuga, tomate, queso, cebolla, salsa.</p>
+        <p><strong>Instrucciones:</strong> Cocina la carne, coloca en el pan con los demás ingredientes. Sirve caliente.</p>
+    </div>
+</body>
+</html>
